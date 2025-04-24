@@ -1,0 +1,3 @@
+This project focuses on data cleaning and preprocessing using Python, Pandas, NumPy, Matplotlib, and Seaborn to prepare raw data for Machine Learning. The process involves loading the dataset, handling missing values by filling numeric columns with their mean and categorical columns with their most frequent value, encoding categorical data into numeric format, and normalizing numerical features for consistency. Additionally, outliers are visualized using boxplots and eliminated using the Interquartile Range (IQR) method to ensure clean data. Finally, the cleaned dataset is saved in a CSV format, making it ready for further ML tasks. 🚀 Let me know if you need any tweaks!
+   git clone YOUR_GITHUB_REPO_URL
+  
